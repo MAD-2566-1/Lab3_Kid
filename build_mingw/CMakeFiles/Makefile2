@@ -80,12 +80,12 @@ clean: CMakeFiles/cepptestprogrammer.dir/clean
 CMakeFiles/cepptestprogrammer.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\DELL\STM32CubeIDE\workspace_1.13.0\cepptestprogrammer\build_mingw\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30 "Built target cepptestprogrammer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\DELL\STM32CubeIDE\workspace_1.13.0\cepptestprogrammer\build_mingw\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32 "Built target cepptestprogrammer"
 .PHONY : CMakeFiles/cepptestprogrammer.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/cepptestprogrammer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\DELL\STM32CubeIDE\workspace_1.13.0\cepptestprogrammer\build_mingw\CMakeFiles 30
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\DELL\STM32CubeIDE\workspace_1.13.0\cepptestprogrammer\build_mingw\CMakeFiles 32
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/cepptestprogrammer.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\DELL\STM32CubeIDE\workspace_1.13.0\cepptestprogrammer\build_mingw\CMakeFiles 0
 .PHONY : CMakeFiles/cepptestprogrammer.dir/rule

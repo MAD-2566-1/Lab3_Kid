@@ -329,6 +329,54 @@ Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.c.s
 .PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.c.s
 
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.obj: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.obj
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.obj
+
+# target to build an object file
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.obj
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.obj
+
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.i: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.i
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.i
+
+# target to preprocess a source file
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.i
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.i
+
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.s: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.s
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.s
+
+# target to generate assembly for a file
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.s
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c.s
+
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.obj: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.obj
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.obj
+
+# target to build an object file
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.obj
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.obj
+
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.i: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.i
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.i
+
+# target to preprocess a source file
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.i
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.i
+
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.s: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.s
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.s
+
+# target to generate assembly for a file
+Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cepptestprogrammer.dir\build.make CMakeFiles/cepptestprogrammer.dir/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.s
+.PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c.s
+
 Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.obj: Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.c.obj
 .PHONY : Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.obj
 
@@ -843,6 +891,12 @@ help:
 	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.obj
 	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.i
 	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.s
+	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.obj
+	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.i
+	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.s
+	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.obj
+	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.i
+	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.s
 	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.obj
 	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.i
 	@echo ... Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.s

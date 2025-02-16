@@ -22,6 +22,8 @@ file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/DELL/STM32CubeIDE/wo
 set(OLD_GLOB
   "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal.c"
   "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_cortex.c"
+  "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac.c"
+  "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dac_ex.c"
   "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma.c"
   "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_dma_ex.c"
   "C:/Users/DELL/STM32CubeIDE/workspace_1.13.0/cepptestprogrammer/Drivers/STM32F7xx_HAL_Driver/Src/stm32f7xx_hal_eth.c"
