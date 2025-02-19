@@ -63,6 +63,7 @@ ETH_TxPacketConfig TxConfig;
 DAC_HandleTypeDef hdac;
 DMA_HandleTypeDef hdma_dac1;
 
+
 ETH_HandleTypeDef heth;
 
 I2C_HandleTypeDef hi2c1;
